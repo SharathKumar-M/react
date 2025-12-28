@@ -2,7 +2,8 @@ import react from 'react';
 
 const Search = () =>  {
     return (
-        <div className='text-white text-3xl'>Search</div>
+        <div className='text-white text-3xl'>search</div>
     )
 }
 export default Search;
+
