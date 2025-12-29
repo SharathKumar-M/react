@@ -3,7 +3,7 @@ import { useState } from "react";
 import Search from "./components/search.jsx";
 
 const App = () => {
-  const [searchTerm, setSearchTerm] = useState("initialState: ");
+  const [searchTerm, setSearchTerm] = useState("");
   return (
     <main>
       <div className="pattern"></div>
