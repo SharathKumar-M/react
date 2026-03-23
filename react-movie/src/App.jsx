@@ -19,7 +19,7 @@ const App = () => {
   />
 
   <h1 className="relative z-10 text-white text-4xl text-center">
-    Find the <span className="text-gradient">Movies</span> You'll Enjoy without any Hussle
+    Find the <span className="text-gradient">Movies</span> You'll Enjoy Without any Hussle
   </h1>
 </header>
 
