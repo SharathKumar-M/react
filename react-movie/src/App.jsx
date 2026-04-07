@@ -23,7 +23,7 @@ const App = () => {
   </h1>
 </header>
 
-      <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+      <Search searchTerm={searchTerm} setSerchTerm={setSearchTerm} />
       <h1 className="text-white">{searchTerm}</h1>
     </main>
   )
